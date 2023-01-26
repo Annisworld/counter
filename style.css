@@ -9,6 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     margin: auto;
+    overflow: hidden;
 }
 .counter{
     border: 5px solid #1D2D44;
